@@ -2,6 +2,8 @@
 
 ![Engine](https://img.shields.io/badge/Engine-Unreal_Engine_5-blue) ![Project](https://img.shields.io/badge/Project-Active-success) ![Theme](https://img.shields.io/badge/Theme-Blue_Archive-cyan)
 
+[![](https://img.shields.io/badge/Feedback-Issues-orange)](https://github.com/QcrTiMo/Archive_Clash/issues/new/choose)
+
 ---
 
 ## 2026-03-08 ~ 2026-03-？
