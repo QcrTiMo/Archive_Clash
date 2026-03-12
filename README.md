@@ -4,6 +4,7 @@
 
 [![](https://img.shields.io/badge/Feedback-Issues-orange)](https://github.com/QcrTiMo/Archive_Clash/issues/new/choose)
 
+[![](https://img.shields.io/badge/Discord-Join%20Chat-5865F2?logo=discord&logoColor=white)](https://discord.gg/CCENHx3z)
 ---
 
 ## 2026-03-08 ~ 2026-03-11
