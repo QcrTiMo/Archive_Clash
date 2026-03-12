@@ -1,6 +1,6 @@
 ![](https://www.qcrtimo.com/archiveclash.png)
 
-![Engine](https://img.shields.io/badge/Engine-Unreal_Engine_5-blue) ![Project](https://img.shields.io/badge/Project-Active-success) ![Theme](https://img.shields.io/badge/Theme-Blue_Archive-cyan)
+![UE Version](https://img.shields.io/badge/Unreal%20Engine-5.7-0e1128?logo=unrealengine&logoColor=white) ![Project](https://img.shields.io/badge/Project-Active-success) ![Theme](https://img.shields.io/badge/Theme-Blue_Archive-cyan)
 
 [![](https://img.shields.io/badge/Feedback-Issues-orange)](https://github.com/QcrTiMo/Archive_Clash/issues/new/choose)
 
@@ -10,7 +10,7 @@
 | 状态 | 开发日志 |
 |------|------|
 | ✅ 已完成 | 角色基本移动 |
-| ✅ 已完成 | 滑铲动画因为引擎兼容问题不知能否上线最终版本 |
+| ❌ 弃用 | 滑铲动画因为引擎兼容问题不知能否上线最终版本 |
 | ⏳ 待办 | 模型替换（骨骼目前不匹配） |
 | ✅ 已完成 | 基本UI，显示弹药量、准心 |
 | ✅ 已完成 | 枪械射击模式（自动、半自动） |
@@ -26,3 +26,4 @@
 | 状态 | 开发日志 |
 |------|------|
 | 🟡 进行中 | 3D游戏主菜单界面 |
+| 🟡 进行中 | 定向滑步闪避冲刺动画 |
